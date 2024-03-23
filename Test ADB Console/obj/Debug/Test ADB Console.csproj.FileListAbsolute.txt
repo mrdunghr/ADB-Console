@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\bin\Debug\Test ADB Console.exe.config
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\bin\Debug\Test ADB Console.exe
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\bin\Debug\Test ADB Console.pdb
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\bin\Debug\SharpAdbClient.dll
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\obj\Debug\Test ADB Console.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\obj\Debug\Test ADB Console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\obj\Debug\Test ADB.6088C8FA.Up2Date
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\obj\Debug\Test ADB Console.exe
+C:\Users\Admin\source\repos\Test ADB Console\Test ADB Console\obj\Debug\Test ADB Console.pdb
